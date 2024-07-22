@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Anybody:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@600&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-outfit: Outfit;
+  --font-inter: Inter;
+  --font-anybody: Anybody;
+
+  /* font sizes */
+  --font-size-5xl: 24px;
+  --font-size-8xl: 27px;
+  --font-size-3xs: 10px;
+  --font-size-xl: 20px;
+  --font-size-26xl: 45px;
+  --font-size-base: 16px;
+  --font-size-4xl: 23px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-whitesmoke-100: #fafaf5;
+  --color-whitesmoke-200: #f5f5f5;
+  --color-lightcyan: #cbf2f7;
+  --color-darkolivegreen: #426b1f;
+  --color-forestgreen: #39932c;
+  --color-gray: rgba(0, 0, 0, 0.89);
+
+  /* Border radiuses */
+  --br-5xl: 24px;
+  --br-xl: 20px;
+  --br-21xl: 40px;
+  
+}
